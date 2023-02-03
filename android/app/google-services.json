@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541006623269",
+    "project_id": "boofapp-59572",
+    "storage_bucket": "boofapp-59572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541006623269:android:ac4729ad02f0da9e1a05cc",
+        "android_client_info": {
+          "package_name": "com.app.boofapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541006623269-6adp24cphkne0bdku12au6anujhlpa3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA6Ys66YBhRLeA43qjU0cYSaepzMXoWco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541006623269-6adp24cphkne0bdku12au6anujhlpa3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
